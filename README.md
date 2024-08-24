@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/bfb08cbe-a6d1-4f2a-b4ec-6a30b8ee348e)
+![image](https://github.com/user-attachments/assets/6ac2f8c3-fffc-44bc-98b3-e8e260967025)
+
 
 A **chatbot** is a type of software that interacts with users through automated conversations on messaging platforms like Telegram. **Telegram**, a freeware and mostly open-source instant messaging platform, provides an ideal environment for developing projects that involve interaction with large volumes of user-generated data.
 
