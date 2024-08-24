@@ -20,7 +20,7 @@ This activity was a challenge proposed by EBAC as the Final Project for the Big 
 * Use the Telegram Bot API to retrieve and process these messages.
 2. Pipeline
   
-  2.1. Data Ingestion
+   2.1. Data Ingestion
 * Creating buckets to save raw data.
 * Using AWS Lambda Function to receive messages and storage in JSON format at raw data bucker.
 * Create an API with AWS Api Gateway to receives messages captured by Telegran Bot, sent via webhook, and trigger an AWS Lambda function, passing the message content in its event parameter.
